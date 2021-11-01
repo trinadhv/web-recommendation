@@ -20,7 +20,7 @@ Put the goal on a leash. It is the primary driver for the entire lifecycle of th
 
 ### **B. What are the requirements?**
 When assessing the requirements, consider the following three areas.
-* [Technology](#b1technolgy)
+* [Technology](#b1-technolgy)
 * People
 * Processes
 
